@@ -1,0 +1,7994 @@
+[
+ {
+   "FIELD1": 1,
+   "x": 9.40868601072358,
+   "y": 16.1210201055615,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 2,
+   "x": 19.0897358085716,
+   "y": 14.7368181646028,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 3,
+   "x": 19.7738256047432,
+   "y": 20.5837087986218,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 4,
+   "x": 10.0954125951941,
+   "y": 15.3062082515335,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 5,
+   "x": 9.68232106285366,
+   "y": 17.8210732194794,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 6,
+   "x": 9.74037964288468,
+   "y": 14.9660879708745,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 7,
+   "x": 11.1147525658494,
+   "y": 13.7546887931916,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 8,
+   "x": 12.2395754404448,
+   "y": 34.7074986019406,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 9,
+   "x": 9.7560326497177,
+   "y": 15.1736099956435,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 10,
+   "x": 19.7817904168628,
+   "y": 20.5639232188074,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 11,
+   "x": 18.4615004114394,
+   "y": 19.6397281505103,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 12,
+   "x": 13.4856906211298,
+   "y": 12.1684314644153,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 13,
+   "x": 10.1903872085718,
+   "y": 15.2259015177097,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 14,
+   "x": 9.73751152090156,
+   "y": 8.37647992313581,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 15,
+   "x": 8.20672255478996,
+   "y": 10.9082516255536,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 16,
+   "x": 13.8649564013872,
+   "y": 23.3634653420073,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 17,
+   "x": 14.0313135934471,
+   "y": 11.2920713316171,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 18,
+   "x": 11.8884336987523,
+   "y": 12.5492257628668,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 19,
+   "x": 9.35472335811653,
+   "y": 10.4595034578399,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 20,
+   "x": 10.6221890580796,
+   "y": 11.7966634743656,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 21,
+   "x": 4.24339165997806,
+   "y": 0.324182515196259,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 22,
+   "x": 25.3752965551271,
+   "y": -1.01755336069719,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 23,
+   "x": 17.8981276238208,
+   "y": 19.5422779590323,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 24,
+   "x": 13.9013526227876,
+   "y": 11.9485138129217,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 25,
+   "x": 8.945592048333,
+   "y": 12.683008813572,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 26,
+   "x": 9.51232083296227,
+   "y": 14.3916215327611,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 27,
+   "x": 5.46674575375634,
+   "y": -0.142542002967649,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 28,
+   "x": 11.6230671203425,
+   "y": 14.5444687363969,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 29,
+   "x": 11.4110644547543,
+   "y": 30.3897744554886,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 30,
+   "x": 10.7451294788455,
+   "y": 12.3724204212852,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 31,
+   "x": 11.8217524813259,
+   "y": 7.77412934565986,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 32,
+   "x": 14.0182423698844,
+   "y": -1.79460869217012,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 33,
+   "x": 1.63036184677662,
+   "y": 0.115890417634024,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 34,
+   "x": 19.6275644234041,
+   "y": 20.6539841256691,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 35,
+   "x": 12.737282266151,
+   "y": 15.5601369624071,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 36,
+   "x": 12.8022639057016,
+   "y": 15.5022355782377,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 37,
+   "x": 11.5270729631043,
+   "y": 29.6312295109773,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 38,
+   "x": 19.356479558689,
+   "y": 20.5899338607202,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 39,
+   "x": 9.76797611946953,
+   "y": 15.2697153382058,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 40,
+   "x": 5.0215332198805,
+   "y": 0.660038739230662,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 41,
+   "x": 3.39884364363833,
+   "y": -0.579229947193804,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 42,
+   "x": 10.4864110507205,
+   "y": 11.2030386571862,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 43,
+   "x": 11.1430118671079,
+   "y": 13.6573059677793,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 44,
+   "x": 14.1217573181549,
+   "y": 11.1638973403551,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 45,
+   "x": 10.0089528178915,
+   "y": 16.914765351743,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 46,
+   "x": 10.1910867010532,
+   "y": 15.1866322319755,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 47,
+   "x": 0.195359975012442,
+   "y": -0.0671555881879393,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 48,
+   "x": 9.65426595838657,
+   "y": 18.0398945981169,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 49,
+   "x": 17.9119133996435,
+   "y": 19.6475938949253,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 50,
+   "x": 13.9959813972105,
+   "y": -1.64481718340388,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 51,
+   "x": 17.0171101805864,
+   "y": 15.9840716082844,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 52,
+   "x": 15.4475576953545,
+   "y": 18.5566587264784,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 53,
+   "x": 10.1467682659495,
+   "y": 10.9074718044667,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 54,
+   "x": 11.4323771971128,
+   "y": 13.5361484978336,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 55,
+   "x": 13.5393573427741,
+   "y": 12.0151387916293,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 56,
+   "x": 5.47349973632238,
+   "y": 3.44987754400587,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 57,
+   "x": 0.868133357028175,
+   "y": -0.349124822238067,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 58,
+   "x": 9.730051263826,
+   "y": 14.8400514553966,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 59,
+   "x": 17.9682897919618,
+   "y": -2.74344568900539,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 60,
+   "x": 13.7314372938641,
+   "y": 12.2385529481734,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 61,
+   "x": 4.0287754821754,
+   "y": 0.563692488912082,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 62,
+   "x": 12.1107382669444,
+   "y": 14.9434918477989,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 63,
+   "x": 16.3449952505875,
+   "y": 13.1522466486975,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 64,
+   "x": 13.5526057512896,
+   "y": 13.669115081293,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 65,
+   "x": 2.64227933716661,
+   "y": -1.46106298166734,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 66,
+   "x": 4.23845929894628,
+   "y": 5.75456203257805,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 67,
+   "x": 12.0888610122636,
+   "y": 18.0719575395224,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 68,
+   "x": 2.67550493641264,
+   "y": 0.392655875172254,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 69,
+   "x": 9.70734076272839,
+   "y": 18.0611009587896,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 70,
+   "x": 0.965985166959481,
+   "y": -0.0615376460800232,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 71,
+   "x": 15.4327505236803,
+   "y": 17.5102994696823,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 72,
+   "x": 9.84833656504684,
+   "y": 14.9290070720979,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 73,
+   "x": 12.8247221546311,
+   "y": 17.9635178907535,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 74,
+   "x": 13.18546698021,
+   "y": 18.588834053982,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/05"
+ },
+ {
+   "FIELD1": 75,
+   "x": 9.06530750844632,
+   "y": 18.207354521678,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 76,
+   "x": 19.056611133712,
+   "y": 13.3566782138602,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 77,
+   "x": 9.86552879160438,
+   "y": 14.5784833628736,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 78,
+   "x": 19.3961812327416,
+   "y": 15.2815108833396,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 79,
+   "x": 9.62700360352194,
+   "y": 15.0344365652739,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 80,
+   "x": 9.57156139431896,
+   "y": 13.9710450023451,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 81,
+   "x": 10.9203316703952,
+   "y": 13.6764304659016,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 82,
+   "x": 12.6032662119664,
+   "y": 25.4741419551004,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 83,
+   "x": 9.55480479393985,
+   "y": 14.2666552098379,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 84,
+   "x": 19.4016364928396,
+   "y": 15.2628720573024,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 85,
+   "x": 18.1294511403968,
+   "y": 15.8453588762409,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 86,
+   "x": 13.3568375113441,
+   "y": 12.9421273080906,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 87,
+   "x": 10.0332455554045,
+   "y": 14.5786673368459,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 88,
+   "x": 9.60696355296108,
+   "y": 7.94147980134976,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 89,
+   "x": 8.06927658861106,
+   "y": 9.19222140573079,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 90,
+   "x": 13.4556249291399,
+   "y": 23.2440335692031,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 91,
+   "x": 14.0796662373618,
+   "y": 9.91216991228989,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 92,
+   "x": 9.14036875624418,
+   "y": 9.86907012686928,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 93,
+   "x": 11.768145259392,
+   "y": 13.0210381324617,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 94,
+   "x": 10.4117364287652,
+   "y": 12.4880861436485,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 95,
+   "x": 4.14481760652461,
+   "y": -0.668751988412908,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 96,
+   "x": 25.2620414417098,
+   "y": 3.57609436666295,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 97,
+   "x": 17.5616598248673,
+   "y": 15.753461088367,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 98,
+   "x": 13.9681045851061,
+   "y": 10.4358659081475,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 99,
+   "x": 8.82196406690216,
+   "y": 12.1273499271584,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 100,
+   "x": 9.32415921589729,
+   "y": 13.5239626766354,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 101,
+   "x": 5.40880582108735,
+   "y": -0.930786968574415,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 102,
+   "x": 11.4777841572479,
+   "y": 13.6555133682158,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 103,
+   "x": 11.6806580342689,
+   "y": 21.6689000937315,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 104,
+   "x": 10.5183057045272,
+   "y": 11.9949479133153,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 105,
+   "x": 13.6983458338282,
+   "y": 1.88192791598585,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 106,
+   "x": 11.6020868915183,
+   "y": 10.2295468824884,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 107,
+   "x": 1.58542379538347,
+   "y": -0.0345240950037518,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 108,
+   "x": 19.2492841884317,
+   "y": 15.3514116914117,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 109,
+   "x": 12.5922159273874,
+   "y": 15.4029890827291,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 110,
+   "x": 11.8858782343607,
+   "y": 22.3021750842632,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 111,
+   "x": 12.6837923341861,
+   "y": 15.1656467489328,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 112,
+   "x": 18.9769219353435,
+   "y": 15.2929297859332,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 113,
+   "x": 4.94763632798028,
+   "y": 0.802015119076716,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 114,
+   "x": 9.53223772420493,
+   "y": 14.3353008579797,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 115,
+   "x": 3.37054846562413,
+   "y": -1.06451132767202,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 116,
+   "x": 10.3277753391078,
+   "y": 12.2118810351659,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 117,
+   "x": 10.9179299200627,
+   "y": 13.7314371285123,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 118,
+   "x": 14.0097126803409,
+   "y": 11.6621784106583,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 119,
+   "x": 9.84480072043492,
+   "y": 15.7543109139262,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 120,
+   "x": 10.0033079494922,
+   "y": 14.5151321899515,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 121,
+   "x": 0.198951995173086,
+   "y": -0.0416730748386773,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 122,
+   "x": 9.4342765131607,
+   "y": 16.4756882962016,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 123,
+   "x": 13.6792998247952,
+   "y": 2.04373195144507,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 124,
+   "x": 17.5772121960826,
+   "y": 15.8604207940872,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 125,
+   "x": 15.2511020080421,
+   "y": 20.6620849188891,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 126,
+   "x": 16.7603564299146,
+   "y": 9.71522758171126,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 127,
+   "x": 10.1013341631979,
+   "y": 10.2753688874203,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 128,
+   "x": 11.2986194012721,
+   "y": 13.5816919475301,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 129,
+   "x": 13.3997491922705,
+   "y": 12.9753222069892,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 130,
+   "x": 5.42177595655397,
+   "y": 2.97716215882438,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 131,
+   "x": 0.849243178206796,
+   "y": -0.43359998365764,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 132,
+   "x": 9.52773958789744,
+   "y": 13.8197124684249,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 133,
+   "x": 18.0626848767424,
+   "y": -2.77180308436976,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 134,
+   "x": 13.5868934644918,
+   "y": 13.2009443100198,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 135,
+   "x": 16.25575697551,
+   "y": 11.7001120011251,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 136,
+   "x": 3.98348850404047,
+   "y": 0.179348551545555,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 137,
+   "x": 11.9262386477215,
+   "y": 13.9484655164594,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 138,
+   "x": 13.7164692880441,
+   "y": 11.1282359841238,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 139,
+   "x": 2.65809627552015,
+   "y": -2.17262554297665,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 140,
+   "x": 4.06552266868096,
+   "y": 5.01059856967301,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 141,
+   "x": 11.8777881581887,
+   "y": 19.9120550048312,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 142,
+   "x": 9.66700958498655,
+   "y": 16.491009277268,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 143,
+   "x": 2.74138491889939,
+   "y": -0.640621219358406,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 144,
+   "x": 0.940111774039856,
+   "y": -0.174530956157259,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 145,
+   "x": 15.2896589523015,
+   "y": 19.3291618149722,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 146,
+   "x": 9.64052471368217,
+   "y": 14.5333039108273,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 147,
+   "x": 12.9520515509359,
+   "y": 22.6985341607987,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 148,
+   "x": 12.6212243361849,
+   "y": 21.6554473295908,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/06"
+ },
+ {
+   "FIELD1": 149,
+   "x": 7.81011718818978,
+   "y": 20.3324346361858,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 150,
+   "x": 13.6284884995075,
+   "y": 27.3487359361907,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 151,
+   "x": 16.3851439637336,
+   "y": 24.6363041455931,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 152,
+   "x": 8.44352590604725,
+   "y": 17.0268004855692,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 153,
+   "x": 8.47397633678708,
+   "y": 18.7893232461762,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 154,
+   "x": 8.20190306034645,
+   "y": 16.4905911390282,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 155,
+   "x": 9.20250741890466,
+   "y": 15.8014128302625,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 156,
+   "x": 11.3331214709233,
+   "y": 33.8642366553353,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 157,
+   "x": 8.13069773039003,
+   "y": 16.7381565216867,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 158,
+   "x": 16.3982275137037,
+   "y": 24.5156985487649,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 159,
+   "x": 15.3960243615288,
+   "y": 26.1928571764523,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 160,
+   "x": 9.3845098831239,
+   "y": 19.2769378199676,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 161,
+   "x": 8.61347790295523,
+   "y": 17.0079949219344,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 162,
+   "x": 8.74436455234833,
+   "y": 6.63085100481271,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 163,
+   "x": 7.50412639435007,
+   "y": 7.31404149588182,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 164,
+   "x": 12.5438163456835,
+   "y": 29.2019240139195,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 165,
+   "x": 9.64574572324299,
+   "y": 18.7579363577879,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 166,
+   "x": 10.4214580184331,
+   "y": 13.0085012154612,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 167,
+   "x": 8.01949397614008,
+   "y": 10.2550779217926,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 168,
+   "x": 9.03024992651128,
+   "y": 12.4278176945015,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 169,
+   "x": 4.09868466515036,
+   "y": -2.34043611279127,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 170,
+   "x": 24.2444789977679,
+   "y": 9.01836900517205,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 171,
+   "x": 14.7182356699935,
+   "y": 26.0773342249672,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 172,
+   "x": 9.53168943196762,
+   "y": 19.5666515243119,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 173,
+   "x": 7.8470999154881,
+   "y": 11.1906394716876,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 174,
+   "x": 7.93124676089289,
+   "y": 15.8614591748293,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 175,
+   "x": 5.25336137984732,
+   "y": -1.35018132553486,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 176,
+   "x": 9.72276783126585,
+   "y": 16.0560006969489,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 177,
+   "x": 10.5949252770453,
+   "y": 29.1395404691385,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 178,
+   "x": 9.40998231866005,
+   "y": 15.6737124854202,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 179,
+   "x": 10.7247278699449,
+   "y": 10.4597969377329,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 180,
+   "x": 12.5641725524533,
+   "y": -4.12275733459039,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 181,
+   "x": 1.54511649369879,
+   "y": -0.425744588432952,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 182,
+   "x": 16.2692880153583,
+   "y": 25.2331927086683,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 183,
+   "x": 11.1758268778973,
+   "y": 16.3530016583865,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 184,
+   "x": 11.2738581811444,
+   "y": 16.2116719411743,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 185,
+   "x": 10.6574584898765,
+   "y": 30.3043045167177,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 186,
+   "x": 15.8913930055968,
+   "y": 24.4169919464005,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 187,
+   "x": 8.11152739684619,
+   "y": 16.8774738849507,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 188,
+   "x": 4.91922230288509,
+   "y": -1.00900465740072,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 189,
+   "x": 3.31552902018352,
+   "y": -2.31811817357507,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 190,
+   "x": 8.91173462903572,
+   "y": 13.406106334542,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 191,
+   "x": 8.31003123140279,
+   "y": 17.8818145092801,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 192,
+   "x": 9.58066394466174,
+   "y": 18.6973695661184,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 193,
+   "x": 7.15518671159345,
+   "y": 19.7529489446641,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 194,
+   "x": 8.56804429796466,
+   "y": 16.838396992106,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 195,
+   "x": 0.202743961851887,
+   "y": -0.067119099528512,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 196,
+   "x": 8.01466264223782,
+   "y": 18.5814633148101,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 197,
+   "x": 14.7304734702266,
+   "y": 26.2600443662473,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 198,
+   "x": 12.5516065666687,
+   "y": -3.93626439228036,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 199,
+   "x": 12.7201311028294,
+   "y": 17.5097632433471,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 200,
+   "x": 14.013660506297,
+   "y": 21.2365268935027,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 201,
+   "x": 9.3315443991692,
+   "y": 8.09980844597038,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 202,
+   "x": 9.82863613843649,
+   "y": 14.3152992464912,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 203,
+   "x": 9.47610796121131,
+   "y": 19.0727507781577,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 204,
+   "x": 5.29801630010058,
+   "y": 0.52680043903548,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 205,
+   "x": 0.802002370950276,
+   "y": -0.803994819584675,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 206,
+   "x": 8.11422150831575,
+   "y": 16.37197869138,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 207,
+   "x": 17.1380078692824,
+   "y": -2.24536480808086,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 208,
+   "x": 9.64277072421354,
+   "y": 19.1199838130965,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 209,
+   "x": 3.90834737848106,
+   "y": -1.00097455456672,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 210,
+   "x": 10.871910803471,
+   "y": 16.4848982671888,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 211,
+   "x": 14.7626672158206,
+   "y": 17.4182805789713,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 212,
+   "x": 9.48470945504517,
+   "y": 22.2061010741609,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 213,
+   "x": 2.69285900984931,
+   "y": -2.5370435432799,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 214,
+   "x": 3.5082579854748,
+   "y": 5.47006742391476,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 215,
+   "x": 10.450757523873,
+   "y": 20.1495287127431,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 216,
+   "x": 2.64113849472216,
+   "y": -2.08763443912934,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 217,
+   "x": 8.55043663038394,
+   "y": 19.5325312735493,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 218,
+   "x": 0.928960001744156,
+   "y": -0.437420529138488,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 219,
+   "x": 14.1464664339906,
+   "y": 20.2233524369023,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 220,
+   "x": 8.28502044519472,
+   "y": 15.9953124677625,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 221,
+   "x": 11.3486203323321,
+   "y": 24.8743239737439,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 222,
+   "x": 11.6608859055764,
+   "y": 25.8637071230966,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/07"
+ },
+ {
+   "FIELD1": 223,
+   "x": 7.8019043572271,
+   "y": 17.6951161105911,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 224,
+   "x": 12.7319329293876,
+   "y": 21.9272291240949,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 225,
+   "x": 8.54011981634827,
+   "y": 13.131965855827,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 226,
+   "x": 15.1593027330635,
+   "y": 17.3551382802229,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 227,
+   "x": 8.31749081482866,
+   "y": 12.9990129991327,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 228,
+   "x": 8.70312221404501,
+   "y": 15.0421737498738,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 229,
+   "x": 9.08311767626037,
+   "y": 10.9048038105282,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 230,
+   "x": 11.5461298469689,
+   "y": 27.8869077761672,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 231,
+   "x": 8.24772920583305,
+   "y": 13.1820644563638,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 232,
+   "x": 15.1582669220211,
+   "y": 17.3408983874935,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 233,
+   "x": 14.0249523629902,
+   "y": 21.5413095162212,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 234,
+   "x": 8.84714056434754,
+   "y": 14.1201061912807,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 235,
+   "x": 8.70129910603104,
+   "y": 13.0932260530528,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 236,
+   "x": 8.78455168459051,
+   "y": 3.3117980408192,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 237,
+   "x": 7.54712878773966,
+   "y": 6.52314808620964,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 238,
+   "x": 12.2923670271845,
+   "y": 25.0929768505812,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 239,
+   "x": 9.05684575177694,
+   "y": 13.707309639003,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 240,
+   "x": 8.0259588980097,
+   "y": 8.01940224532549,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 241,
+   "x": 10.2180359552497,
+   "y": 8.03272485420283,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 242,
+   "x": 8.96862079926034,
+   "y": 9.39163856600953,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 243,
+   "x": 3.90960507097356,
+   "y": -1.03259780252072,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 244,
+   "x": 24.1921836729732,
+   "y": 4.1905401427069,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 245,
+   "x": 14.026299496588,
+   "y": 21.5498672734981,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 246,
+   "x": 8.93012047210135,
+   "y": 14.4593342204558,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 247,
+   "x": 7.98828132614585,
+   "y": 8.54794605349307,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 248,
+   "x": 8.06503675801192,
+   "y": 12.5095310981621,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 249,
+   "x": 5.24786548072352,
+   "y": -2.47724993011933,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 250,
+   "x": 9.62069686333015,
+   "y": 11.0755710676947,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 251,
+   "x": 10.8501058377408,
+   "y": 24.0155025857055,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 252,
+   "x": 9.4689861678868,
+   "y": 8.92159917777575,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 253,
+   "x": 12.5914555848011,
+   "y": -2.97253317211268,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 254,
+   "x": 10.9262028003189,
+   "y": 6.82838629586,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 255,
+   "x": 1.50001190307455,
+   "y": -0.297050211962702,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 256,
+   "x": 15.288480294536,
+   "y": 17.0493928838863,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 257,
+   "x": 11.1950927157719,
+   "y": 10.5395134954402,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 258,
+   "x": 11.0364676895811,
+   "y": 23.7330409214392,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 259,
+   "x": 11.294996078041,
+   "y": 10.4061928957579,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 260,
+   "x": 15.1678617083159,
+   "y": 17.257638174205,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 261,
+   "x": 4.76234564714597,
+   "y": -1.04892349517626,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 262,
+   "x": 8.22380399704537,
+   "y": 13.2738361417234,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 263,
+   "x": 3.22225993766961,
+   "y": -1.71884811335247,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 264,
+   "x": 8.85532691206977,
+   "y": 9.90278689381396,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 265,
+   "x": 8.23947121032218,
+   "y": 14.1755801712231,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 266,
+   "x": 9.17697186450409,
+   "y": 14.7142591089174,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 267,
+   "x": 7.06530939594896,
+   "y": 15.534519082489,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 268,
+   "x": 8.66109843706754,
+   "y": 12.9173800953617,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 269,
+   "x": 0.21122219555433,
+   "y": 0,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 270,
+   "x": 8.15645312835284,
+   "y": 14.9822940185214,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 271,
+   "x": 12.586780936157,
+   "y": -2.83122523807112,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 272,
+   "x": 14.0236476537621,
+   "y": 21.5731359287683,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 273,
+   "x": 13.9605647394149,
+   "y": 14.0670284366323,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 274,
+   "x": 12.1167710319082,
+   "y": 12.857346285892,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 275,
+   "x": 9.28242233355024,
+   "y": 5.72482983163352,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 276,
+   "x": 9.76908661076532,
+   "y": 9.71333901689113,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 277,
+   "x": 9.14937889189551,
+   "y": 15.3921753938545,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 278,
+   "x": 5.2436585537135,
+   "y": 1.15005851909991,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 279,
+   "x": 0.790497360798659,
+   "y": -0.518689048042187,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 280,
+   "x": 8.22997857124392,
+   "y": 12.8850339024543,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 281,
+   "x": 16.3922396354585,
+   "y": -3.02320531791818,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 282,
+   "x": 9.32118347613409,
+   "y": 15.5280024664813,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 283,
+   "x": 14.2171759807269,
+   "y": 10.4917330754407,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 284,
+   "x": 3.79347731565318,
+   "y": -0.897175884919699,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 285,
+   "x": 10.941771373795,
+   "y": 12.9983615396837,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 286,
+   "x": 8.79919969239236,
+   "y": 16.732476149573,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 287,
+   "x": 2.68719632122949,
+   "y": -1.86103943414353,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 288,
+   "x": 3.30933746252679,
+   "y": 3.65266285563539,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 289,
+   "x": 10.4100153433198,
+   "y": 16.5069902060662,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 290,
+   "x": 8.84836492453385,
+   "y": 16.4901130664749,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 291,
+   "x": 2.56166968176202,
+   "y": -1.76496496388303,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 292,
+   "x": 0.911115188765942,
+   "y": -0.25221701798066,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 293,
+   "x": 14.0894408120379,
+   "y": 12.0711801544833,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 294,
+   "x": 8.40641664597784,
+   "y": 12.992530070389,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 295,
+   "x": 11.4724950871528,
+   "y": 21.4336260711595,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 296,
+   "x": 11.1917441968631,
+   "y": 20.5154698660523,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/08"
+ },
+ {
+   "FIELD1": 297,
+   "x": 7.82937602577489,
+   "y": 19.9496704071514,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 298,
+   "x": 12.5382244976366,
+   "y": 24.4574069917723,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 299,
+   "x": 14.6391396636372,
+   "y": 20.3625769198492,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 300,
+   "x": 8.57612764792655,
+   "y": 14.9071833499162,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 301,
+   "x": 8.36944159012531,
+   "y": 14.4328730824673,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 302,
+   "x": 8.77481565622364,
+   "y": 16.5501938756456,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 303,
+   "x": 9.03270980020052,
+   "y": 12.8589929944672,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 304,
+   "x": 11.7974237362558,
+   "y": 26.67055261808,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 305,
+   "x": 8.29889825180742,
+   "y": 14.5886632799919,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 306,
+   "x": 14.6413435112528,
+   "y": 20.3437009320016,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 307,
+   "x": 13.4748027025939,
+   "y": 25.8966856716032,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 308,
+   "x": 8.76875528268152,
+   "y": 16.356473845032,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 309,
+   "x": 8.74513713724848,
+   "y": 14.8597847948097,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 310,
+   "x": 8.8213054217134,
+   "y": 6.11344207534461,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 311,
+   "x": 7.53737175657992,
+   "y": 8.73360493946189,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 312,
+   "x": 12.2560252758378,
+   "y": 19.2454337192187,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 313,
+   "x": 8.97741039599931,
+   "y": 15.9382371042311,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 314,
+   "x": 10.2062456664221,
+   "y": 9.83318374616757,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 315,
+   "x": 8.10820388294227,
+   "y": 10.3250777631051,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 316,
+   "x": 9.01767166229945,
+   "y": 10.5262177104753,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 317,
+   "x": 3.88245857021138,
+   "y": -1.96596097224814,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 318,
+   "x": 24.4532455374351,
+   "y": 4.80900804194935,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 319,
+   "x": 13.4767384155535,
+   "y": 25.8986057484325,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 320,
+   "x": 8.85121086377908,
+   "y": 16.8281167000564,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 321,
+   "x": 8.04230582606078,
+   "y": 10.4575669806077,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 322,
+   "x": 5.26249731025999,
+   "y": -2.82469709980807,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 323,
+   "x": 8.10814781034453,
+   "y": 14.0076445258428,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 324,
+   "x": 9.5877743026716,
+   "y": 12.4917164741898,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 325,
+   "x": 11.1074201391165,
+   "y": 23.6740644821025,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 326,
+   "x": 9.50558778258289,
+   "y": 10.880648948941,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 327,
+   "x": 12.6570322314195,
+   "y": -2.2431634343751,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 328,
+   "x": 10.8901568952179,
+   "y": 11.4277451156464,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 329,
+   "x": 1.49513772340796,
+   "y": -0.621482571769194,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 330,
+   "x": 11.2230783127807,
+   "y": 13.3331490636202,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 331,
+   "x": 14.7767817190348,
+   "y": 20.077385800105,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 332,
+   "x": 11.2647206185967,
+   "y": 22.9406147290054,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 333,
+   "x": 11.3320153758551,
+   "y": 13.3064967198162,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 334,
+   "x": 14.6454641022563,
+   "y": 20.258323550519,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 335,
+   "x": 8.26673124154334,
+   "y": 14.7460029746137,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 336,
+   "x": 4.71930543973068,
+   "y": -1.92819514946231,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 337,
+   "x": 3.22246173829767,
+   "y": -2.42287801971554,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 338,
+   "x": 8.93036564474123,
+   "y": 11.5167364026929,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 339,
+   "x": 8.26396469421291,
+   "y": 15.1655650562101,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 340,
+   "x": 9.16370173776616,
+   "y": 15.7808289829375,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 341,
+   "x": 7.10123054633997,
+   "y": 17.6637677082955,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 342,
+   "x": 8.70064725196855,
+   "y": 14.706489065172,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 343,
+   "x": 0.222761013169804,
+   "y": -0.0167870404113146,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 344,
+   "x": 8.18826425272891,
+   "y": 17.0000189115623,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 345,
+   "x": 12.6477607666936,
+   "y": -2.13078720927777,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 346,
+   "x": 13.4729045458613,
+   "y": 25.926339456429,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 347,
+   "x": 11.9360227162279,
+   "y": 14.471675430038,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 348,
+   "x": 13.9977835796036,
+   "y": 18.4998837381713,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 349,
+   "x": 9.2646552009415,
+   "y": 8.05405651313558,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 350,
+   "x": 9.16586624273127,
+   "y": 15.61316190744,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 351,
+   "x": 9.76490647176411,
+   "y": 11.9791213870942,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 352,
+   "x": 5.2088836148573,
+   "y": -0.82358815315644,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 353,
+   "x": 0.790717550022786,
+   "y": -0.62150695253993,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 354,
+   "x": 8.27083191216658,
+   "y": 14.3359992775367,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 355,
+   "x": 16.2515842148112,
+   "y": -0.105038217345865,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 356,
+   "x": 9.34137091076543,
+   "y": 15.6436342366427,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 357,
+   "x": 10.9962988436959,
+   "y": 14.4348615762268,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 358,
+   "x": 13.7119955970951,
+   "y": 12.4098976720619,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 359,
+   "x": 3.78993298492997,
+   "y": -1.81345442479688,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 360,
+   "x": 8.70581147679979,
+   "y": 19.8550001864925,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 361,
+   "x": 2.72433411685873,
+   "y": -2.3537911550933,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 362,
+   "x": 3.21602059869673,
+   "y": 1.93491079306083,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 363,
+   "x": 10.4500119535109,
+   "y": 19.4071251563885,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 364,
+   "x": 2.55248022033083,
+   "y": -2.53699225237514,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 365,
+   "x": 8.9300658427607,
+   "y": 18.5389055311658,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 366,
+   "x": 0.904792358740697,
+   "y": -0.411910010320338,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 367,
+   "x": 14.2409952897898,
+   "y": 18.2483470177782,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 368,
+   "x": 8.45337424124866,
+   "y": 14.5771435963983,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 369,
+   "x": 11.4067583975177,
+   "y": 19.5510832191088,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 370,
+   "x": 11.1401109745911,
+   "y": 18.7504113816577,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/09"
+ },
+ {
+   "FIELD1": 371,
+   "x": 6.99164819977613,
+   "y": 25.3965291320051,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 372,
+   "x": 11.673172921635,
+   "y": 24.3842061322862,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 373,
+   "x": 7.65523210067633,
+   "y": 17.3517580306667,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 374,
+   "x": 14.1859566435221,
+   "y": 31.9205075228575,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 375,
+   "x": 7.39540702349832,
+   "y": 17.3765381544266,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 376,
+   "x": 7.96814742234851,
+   "y": 19.9349389296974,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 377,
+   "x": 7.96805117774051,
+   "y": 14.2543943652998,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 378,
+   "x": 11.3808135991248,
+   "y": 32.4612093716546,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 379,
+   "x": 7.37599197858338,
+   "y": 17.4878727003101,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 380,
+   "x": 14.1864781655139,
+   "y": 31.8709551945111,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 381,
+   "x": 12.8841277868421,
+   "y": 31.86436113639,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 382,
+   "x": 8.06768630686383,
+   "y": 16.8795824012985,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 383,
+   "x": 7.79184690710014,
+   "y": 17.4020787239378,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 384,
+   "x": 7.74391731473457,
+   "y": 8.88917129433506,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 385,
+   "x": 6.36250579518285,
+   "y": 11.8677611351523,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 386,
+   "x": 12.1501225201856,
+   "y": 17.1918232190407,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 387,
+   "x": 8.3374769787856,
+   "y": 16.1981787021657,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 388,
+   "x": 7.02903013699987,
+   "y": 13.1214383266746,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 389,
+   "x": 9.02267837711141,
+   "y": 10.581169384288,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 390,
+   "x": 8.01335246742429,
+   "y": 11.9549142992704,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 391,
+   "x": 3.72261532121871,
+   "y": -1.97153800453338,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 392,
+   "x": 14.0252637478431,
+   "y": 34.381445945436,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 393,
+   "x": 12.8848348817139,
+   "y": 31.857529386682,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 394,
+   "x": 8.23151963323795,
+   "y": 16.8341392245254,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 395,
+   "x": 7.08610202246175,
+   "y": 14.0444620787252,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 396,
+   "x": 5.01532350375209,
+   "y": -2.29527884247015,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 397,
+   "x": 7.23576256330835,
+   "y": 16.8826931352204,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 398,
+   "x": 8.59081648617177,
+   "y": 13.9798179855091,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 399,
+   "x": 10.6786519262355,
+   "y": 28.9961842112413,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 400,
+   "x": 8.89397436533187,
+   "y": 13.7098787109991,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 401,
+   "x": 10.3433239097614,
+   "y": 11.5241759552913,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 402,
+   "x": 12.6173855595601,
+   "y": -4.04555108503702,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 403,
+   "x": 1.4710021639374,
+   "y": -0.608121032577547,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 404,
+   "x": 10.2841351348725,
+   "y": 16.7409666484127,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 405,
+   "x": 14.3272180386652,
+   "y": 31.57922783997,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 406,
+   "x": 10.8609612732086,
+   "y": 25.7080392932688,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 407,
+   "x": 10.3884038395535,
+   "y": 16.798166344873,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 408,
+   "x": 14.1929003701008,
+   "y": 31.7960481194326,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 409,
+   "x": 7.34469756876076,
+   "y": 17.433164333635,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 410,
+   "x": 4.57873003021511,
+   "y": -1.22628499889215,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 411,
+   "x": 3.1802211600346,
+   "y": -2.32950023610985,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 412,
+   "x": 7.96250352899186,
+   "y": 13.6947968857863,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 413,
+   "x": 7.05369481551837,
+   "y": 17.0501194618454,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 414,
+   "x": 7.93159366532996,
+   "y": 16.6218443706562,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 415,
+   "x": 6.29164773568524,
+   "y": 19.0552694864266,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 416,
+   "x": 7.68976122915741,
+   "y": 17.2836083316993,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 417,
+   "x": 0.229290005288818,
+   "y": -0.041806748411688,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 418,
+   "x": 7.24968285548413,
+   "y": 19.4772965956061,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 419,
+   "x": 12.5952670816151,
+   "y": -3.91904861146193,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 420,
+   "x": 12.8824476574357,
+   "y": 31.8985577012453,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 421,
+   "x": 13.1647546164741,
+   "y": 18.435669741562,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 422,
+   "x": 11.041785662897,
+   "y": 19.4235396477115,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 423,
+   "x": 8.07219510500332,
+   "y": 9.75463045471965,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 424,
+   "x": 8.75094165913661,
+   "y": 13.7781254768272,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 425,
+   "x": 7.88095989053174,
+   "y": 16.743215348475,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 426,
+   "x": 4.99321207774969,
+   "y": -0.774087205491714,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 427,
+   "x": 0.772477019035647,
+   "y": -0.814373559198678,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 428,
+   "x": 7.3220379885135,
+   "y": 17.254982848581,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 429,
+   "x": 14.590197422068,
+   "y": -3.5154352860479,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 430,
+   "x": 8.04310732310053,
+   "y": 16.8300246228673,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 431,
+   "x": 10.2495234327078,
+   "y": 17.2985694393104,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 432,
+   "x": 12.8464393441665,
+   "y": 15.3524397745085,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 433,
+   "x": 3.72012749470188,
+   "y": -1.55066015751452,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 434,
+   "x": 8.17907777700396,
+   "y": 18.5587544647223,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 435,
+   "x": 2.74403172041877,
+   "y": -2.6623923755254,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 436,
+   "x": 3.07103181353531,
+   "y": 1.7355809876678,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 437,
+   "x": 9.70760989954178,
+   "y": 20.6090887322733,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 438,
+   "x": 8.18496595503039,
+   "y": 22.615841208713,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 439,
+   "x": 2.42902336242581,
+   "y": -1.77010259728829,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 440,
+   "x": 0.877615715615758,
+   "y": -0.45428747268963,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 441,
+   "x": 13.5137493380635,
+   "y": 18.7977362178569,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 442,
+   "x": 7.50517174960187,
+   "y": 17.2675765694551,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 443,
+   "x": 10.2515510200793,
+   "y": 20.94427898262,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 444,
+   "x": 10.5043597739456,
+   "y": 21.8537223779859,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/10"
+ },
+ {
+   "FIELD1": 445,
+   "x": 7.10020741269514,
+   "y": 31.0868800981251,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 446,
+   "x": 11.5206612380645,
+   "y": 26.0566527912237,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 447,
+   "x": 14.4770743636692,
+   "y": 28.7780439998524,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 448,
+   "x": 7.54899707034498,
+   "y": 23.090675395598,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 449,
+   "x": 7.31913732140711,
+   "y": 22.7612111230122,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 450,
+   "x": 7.90521224346143,
+   "y": 25.5110630043488,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 451,
+   "x": 7.77295226676397,
+   "y": 20.9799361854254,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 452,
+   "x": 11.6683939835867,
+   "y": 34.5704604950813,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 453,
+   "x": 7.29472324265441,
+   "y": 22.9076579018904,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 454,
+   "x": 14.4789239194969,
+   "y": 28.7256111175958,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 455,
+   "x": 13.1191525775205,
+   "y": 27.3554041827805,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 456,
+   "x": 7.96620989377184,
+   "y": 20.2670076478699,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 457,
+   "x": 7.68278185259108,
+   "y": 23.2803111039739,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 458,
+   "x": 7.62637924124139,
+   "y": 16.8295363355828,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 459,
+   "x": 6.14497238040046,
+   "y": 18.1350572085755,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 460,
+   "x": 11.7744890986622,
+   "y": 25.3199325856949,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 461,
+   "x": 8.2358772793357,
+   "y": 19.5790358495541,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 462,
+   "x": 8.81406221930738,
+   "y": 16.6485302373887,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 463,
+   "x": 7.03449806711736,
+   "y": 17.8198120682972,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 464,
+   "x": 7.97790965138817,
+   "y": 16.7859600857662,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 465,
+   "x": 3.69122598636729,
+   "y": -1.66803131246812,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 466,
+   "x": 14.2232101167547,
+   "y": 35.8388528386258,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 467,
+   "x": 13.1210473342552,
+   "y": 27.343435322124,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 468,
+   "x": 8.14183093105738,
+   "y": 20.4871665052446,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 469,
+   "x": 7.10770109621263,
+   "y": 20.9144324981104,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 470,
+   "x": 4.82061756110733,
+   "y": -1.04374807076584,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 471,
+   "x": 7.14654744683732,
+   "y": 22.0138905082288,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 472,
+   "x": 8.33933671037016,
+   "y": 20.7372676480213,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 473,
+   "x": 10.930736727683,
+   "y": 31.5964289607092,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 474,
+   "x": 8.71140750028774,
+   "y": 21.6424853600625,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 475,
+   "x": 12.2931922763442,
+   "y": 0.19406144554428,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 476,
+   "x": 9.78788933575375,
+   "y": 21.870375799983,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 477,
+   "x": 1.47681761186532,
+   "y": -0.839873729288809,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 478,
+   "x": 10.0830634521079,
+   "y": 23.7340189160141,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 479,
+   "x": 14.6161656686886,
+   "y": 28.4470491059377,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 480,
+   "x": 10.9048186208714,
+   "y": 29.8761362189931,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 481,
+   "x": 10.1903707570012,
+   "y": 23.8125521874433,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 482,
+   "x": 14.4830577398666,
+   "y": 28.6477835325146,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 483,
+   "x": 7.25649859656366,
+   "y": 22.8805032815158,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 484,
+   "x": 4.55482332017732,
+   "y": -0.244447436318018,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 485,
+   "x": 3.18641037771807,
+   "y": -1.77790906214362,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 486,
+   "x": 7.9626375439089,
+   "y": 18.9164616374808,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 487,
+   "x": 6.93619761333457,
+   "y": 21.3728434970077,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 488,
+   "x": 7.8526417842336,
+   "y": 20.183944802073,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 489,
+   "x": 6.17293836739962,
+   "y": 23.7617942095572,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 490,
+   "x": 7.57928061654361,
+   "y": 23.0789230441652,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 491,
+   "x": 0.240190111060879,
+   "y": -0.0752531962646352,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 492,
+   "x": 7.16561971449481,
+   "y": 25.0258144442333,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 493,
+   "x": 12.2730484590891,
+   "y": 0.37670703057775,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 494,
+   "x": 13.1177180068182,
+   "y": 27.3798249888519,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 495,
+   "x": 10.7969649791867,
+   "y": 14.6335470574445,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 496,
+   "x": 13.0012547482681,
+   "y": 27.1337770041532,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 497,
+   "x": 7.85640267727029,
+   "y": 15.859358498873,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 498,
+   "x": 7.79999388262396,
+   "y": 19.5162127759407,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 499,
+   "x": 8.50183057764623,
+   "y": 20.8575112246331,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 500,
+   "x": 4.95981992033803,
+   "y": 0.603219496291918,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 501,
+   "x": 0.787464684799449,
+   "y": -0.967931823139578,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 502,
+   "x": 7.24466454407427,
+   "y": 22.6234956757899,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 503,
+   "x": 14.7292327774986,
+   "y": 0.713753434200082,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 504,
+   "x": 7.96404471364003,
+   "y": 19.4100210755616,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 505,
+   "x": 10.1947047047035,
+   "y": 22.6842912560878,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 506,
+   "x": 13.054539276703,
+   "y": 17.1093354278949,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 507,
+   "x": 3.71334983823766,
+   "y": -1.30449285113959,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 508,
+   "x": 8.18751217868231,
+   "y": 23.3191702684657,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 509,
+   "x": 2.78071534234449,
+   "y": -2.58985944986276,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 510,
+   "x": 2.99375589384746,
+   "y": 1.49930873443853,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 511,
+   "x": 9.82678525498682,
+   "y": 27.5171257939041,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 512,
+   "x": 2.38311230995237,
+   "y": -0.318402448758437,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 513,
+   "x": 8.13835542705351,
+   "y": 28.8439167441378,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 514,
+   "x": 0.893265491119372,
+   "y": -0.699902803077734,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 515,
+   "x": 13.4354760117567,
+   "y": 27.9125561516155,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 516,
+   "x": 7.41640361655758,
+   "y": 22.7670618960842,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 517,
+   "x": 10.5671706692986,
+   "y": 21.7886205516288,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 518,
+   "x": 10.2626678590355,
+   "y": 21.4809567462,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/11"
+ },
+ {
+   "FIELD1": 519,
+   "x": 6.6837563089755,
+   "y": 26.7394117377698,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 520,
+   "x": 11.2858077964202,
+   "y": 29.6595026844294,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 521,
+   "x": 7.14278781121758,
+   "y": 18.938277770391,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 522,
+   "x": 11.7726070392919,
+   "y": 23.1621065681888,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 523,
+   "x": 6.97187244214488,
+   "y": 19.485908061196,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 524,
+   "x": 7.43864743013431,
+   "y": 24.4719414547115,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 525,
+   "x": 7.3390696022069,
+   "y": 16.2897431482205,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 526,
+   "x": 11.1397585275058,
+   "y": 33.7776938811541,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 527,
+   "x": 6.90776497842017,
+   "y": 19.6459443494645,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 528,
+   "x": 11.7782213165324,
+   "y": 23.1064871583876,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 529,
+   "x": 10.7707031391415,
+   "y": 22.7362447058139,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 530,
+   "x": 7.72303003088438,
+   "y": 21.6710361917443,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 531,
+   "x": 7.34569426296086,
+   "y": 19.0890399235285,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 532,
+   "x": 7.62047296674723,
+   "y": 10.0085765658237,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 533,
+   "x": 5.79668694169,
+   "y": 17.2293239802054,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 534,
+   "x": 11.6689816442861,
+   "y": 29.2625111842566,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 535,
+   "x": 8.16864618163309,
+   "y": 22.4869167525931,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 536,
+   "x": 6.67075881398567,
+   "y": 14.085634250957,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 537,
+   "x": 8.4440730623479,
+   "y": 11.024862231616,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 538,
+   "x": 7.54234285984813,
+   "y": 11.9726921555586,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 539,
+   "x": 3.54066259978749,
+   "y": 0.432512784272454,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 540,
+   "x": 12.8562284506013,
+   "y": 22.2049273424653,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 541,
+   "x": 10.7692640241375,
+   "y": 22.7223619897763,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 542,
+   "x": 8.10454480312312,
+   "y": 23.675481868556,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 543,
+   "x": 6.99441405997773,
+   "y": 18.6371092162115,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 544,
+   "x": 3.61979793520427,
+   "y": 1.65465465941992,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 545,
+   "x": 6.77381692471213,
+   "y": 19.0045150697872,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 546,
+   "x": 7.98946849338412,
+   "y": 16.3582179429778,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 547,
+   "x": 10.2754433217908,
+   "y": 31.6542370865846,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 548,
+   "x": 8.34117621634867,
+   "y": 18.8891131185852,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 549,
+   "x": 8.62091845251305,
+   "y": 18.5774066203202,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 550,
+   "x": 11.4754005890644,
+   "y": 8.84326707782355,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 551,
+   "x": 1.40528472495256,
+   "y": -0.0467156317096262,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 552,
+   "x": 9.66373583380967,
+   "y": 15.1570855884999,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 553,
+   "x": 11.947825161801,
+   "y": 22.8353882015478,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 554,
+   "x": 10.2509542589007,
+   "y": 29.8533359058695,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 555,
+   "x": 9.81754898272964,
+   "y": 15.3282894669719,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 556,
+   "x": 11.7840508429473,
+   "y": 23.0404069019871,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 557,
+   "x": 6.84686258344795,
+   "y": 19.4860375490997,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 558,
+   "x": 4.26489547024507,
+   "y": 3.64387251238618,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 559,
+   "x": 2.94418239251594,
+   "y": 0.786494040410646,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 560,
+   "x": 7.51744584537505,
+   "y": 13.612042787723,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 561,
+   "x": 6.69496506048452,
+   "y": 21.0387798486955,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 562,
+   "x": 7.60974900539102,
+   "y": 22.7881619407533,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 563,
+   "x": 5.90323877837944,
+   "y": 23.7931751289409,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 564,
+   "x": 7.19649468757743,
+   "y": 18.8810307672936,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 565,
+   "x": 0.263012982093849,
+   "y": -0.11754593110761,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 566,
+   "x": 6.77629492458817,
+   "y": 22.2956636649597,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 567,
+   "x": 11.4423240181143,
+   "y": 8.94807392294177,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 568,
+   "x": 10.7669747661717,
+   "y": 22.7682289398855,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 569,
+   "x": 12.25064130072,
+   "y": 14.5502035218638,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 570,
+   "x": 10.7367312387548,
+   "y": 12.5866266871632,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 571,
+   "x": 7.62465752441854,
+   "y": 11.984114999354,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 572,
+   "x": 8.17222150597196,
+   "y": 15.7088842147226,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 573,
+   "x": 7.47186511902554,
+   "y": 23.2676720250183,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 574,
+   "x": 3.5176417981142,
+   "y": 5.2699506593026,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 575,
+   "x": 0.782764052122933,
+   "y": -0.734725756578369,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 576,
+   "x": 6.81602230237216,
+   "y": 19.3148923766979,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 577,
+   "x": 13.3563710824085,
+   "y": -2.88868102048978,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 578,
+   "x": 7.61772999508694,
+   "y": 23.179881170462,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 579,
+   "x": 9.94767265318959,
+   "y": 19.3977043534528,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 580,
+   "x": 11.6131189922169,
+   "y": 19.9127394113438,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 581,
+   "x": 3.43676176343947,
+   "y": 1.76337547515495,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 582,
+   "x": 8.18129574380739,
+   "y": 28.3113024862869,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 583,
+   "x": 2.56703269510869,
+   "y": -0.750577278860665,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 584,
+   "x": 2.62518855677112,
+   "y": 1.72415827391135,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 585,
+   "x": 9.19829531734504,
+   "y": 19.4887301099277,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 586,
+   "x": 7.69769361088885,
+   "y": 27.0195465634599,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 587,
+   "x": 2.50776524824407,
+   "y": -0.255768689077551,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 588,
+   "x": 0.876117845187023,
+   "y": -0.362092632416344,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 589,
+   "x": 12.7656983875705,
+   "y": 13.8304213610125,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 590,
+   "x": 7.04116322790393,
+   "y": 19.2954023664542,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 591,
+   "x": 9.51231244592919,
+   "y": 29.1810077276603,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 592,
+   "x": 9.73837800324711,
+   "y": 29.8017981357546,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2017/12"
+ },
+ {
+   "FIELD1": 593,
+   "x": 6.89560434087235,
+   "y": 29.1012157333093,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 594,
+   "x": 11.0852958028263,
+   "y": 32.10479280896,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 595,
+   "x": 12.0313248441674,
+   "y": 17.2049297586135,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 596,
+   "x": 7.18182800077852,
+   "y": 22.5044102129663,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 597,
+   "x": 7.02037764795543,
+   "y": 23.3353888202556,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 598,
+   "x": 7.62042836739094,
+   "y": 30.7329065333497,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 599,
+   "x": 7.29582688262152,
+   "y": 19.1812107380345,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 600,
+   "x": 11.2690289615896,
+   "y": 40.8708219007824,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 601,
+   "x": 6.9574147904737,
+   "y": 23.585382317394,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 602,
+   "x": 12.0338607508208,
+   "y": 17.1480218501945,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 603,
+   "x": 10.9060753355338,
+   "y": 17.6466072379733,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 604,
+   "x": 7.15651430242696,
+   "y": 26.6292808589351,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 605,
+   "x": 7.35892599202248,
+   "y": 22.4529272614435,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 606,
+   "x": 7.38232563413501,
+   "y": 11.3750409805198,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 607,
+   "x": 5.74347565216715,
+   "y": 18.8360667642504,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 608,
+   "x": 11.725536765832,
+   "y": 44.9361111473038,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 609,
+   "x": 7.90672224376109,
+   "y": 26.0114609363925,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 610,
+   "x": 8.23237526799166,
+   "y": 11.4539732321957,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 611,
+   "x": 6.76568572120441,
+   "y": 15.6419202926882,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 612,
+   "x": 7.48998944456496,
+   "y": 13.2557608641489,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 613,
+   "x": 3.38784301787213,
+   "y": -0.180605211034124,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 614,
+   "x": 12.6119425118094,
+   "y": 24.5023033329582,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 615,
+   "x": 10.9013621410089,
+   "y": 17.6350612687999,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 616,
+   "x": 7.83193209219757,
+   "y": 27.4533554225436,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 617,
+   "x": 7.03375160353366,
+   "y": 23.3407591580344,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 618,
+   "x": 3.47941870093148,
+   "y": 0.371903637668103,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 619,
+   "x": 6.86295406087906,
+   "y": 22.5057936453774,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 620,
+   "x": 7.83617290614474,
+   "y": 19.9710123938469,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 621,
+   "x": 10.3736685432853,
+   "y": 36.9414286190152,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 622,
+   "x": 8.26393817838114,
+   "y": 29.1534882418792,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 623,
+   "x": 10.9046823317048,
+   "y": 15.1308446270308,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 624,
+   "x": 9.2157273340942,
+   "y": 24.0297624453353,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 625,
+   "x": 1.32913066917002,
+   "y": -0.258393017577285,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 626,
+   "x": 9.48159098352884,
+   "y": 15.7546683117981,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 627,
+   "x": 12.1714856558396,
+   "y": 16.1869661602293,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 628,
+   "x": 10.4085020139654,
+   "y": 38.1103846870922,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 629,
+   "x": 9.61812514899583,
+   "y": 16.0412650583693,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 630,
+   "x": 12.0427068492409,
+   "y": 17.0837711551574,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 631,
+   "x": 6.91409283356229,
+   "y": 23.44254459381,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 632,
+   "x": 4.24627155899509,
+   "y": 2.21332207032192,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 633,
+   "x": 2.89428690536044,
+   "y": 0.0172216550077042,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 634,
+   "x": 7.46802812843291,
+   "y": 15.0015510764022,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 635,
+   "x": 6.70850759829211,
+   "y": 25.0037942248995,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 636,
+   "x": 7.40460988007746,
+   "y": 25.7111566598852,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 637,
+   "x": 5.89205576654341,
+   "y": 26.638140191467,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 638,
+   "x": 7.25192052437669,
+   "y": 22.3974872321538,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 639,
+   "x": 0.255547031978162,
+   "y": 0.0252959856385182,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 640,
+   "x": 6.88697728087544,
+   "y": 25.5360904789391,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 641,
+   "x": 10.8702574193348,
+   "y": 15.3572180983006,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 642,
+   "x": 10.9000086668734,
+   "y": 17.6765400219398,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 643,
+   "x": 10.567139562843,
+   "y": 7.52358464834779,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 644,
+   "x": 11.9476560444631,
+   "y": 14.2191815760384,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 645,
+   "x": 7.49797648517381,
+   "y": 12.1047910921038,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 646,
+   "x": 7.37545866871949,
+   "y": 27.5850298289792,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 647,
+   "x": 8.01606055063184,
+   "y": 18.3392856488508,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 648,
+   "x": 3.38977276212423,
+   "y": 4.32067109538179,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 649,
+   "x": 0.760274483366391,
+   "y": -0.881914581105026,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 650,
+   "x": 13.8893469418558,
+   "y": -1.66780779134816,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 651,
+   "x": 6.86941470478246,
+   "y": 23.1817928898653,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 652,
+   "x": 7.51188931728524,
+   "y": 27.4786786360852,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 653,
+   "x": 9.99139003576817,
+   "y": 23.2965074541154,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 654,
+   "x": 3.32715773452453,
+   "y": 0.805232091449581,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 655,
+   "x": 11.2298480707918,
+   "y": 26.7292388207584,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 656,
+   "x": 7.85543533200799,
+   "y": 33.6713635949955,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 657,
+   "x": 2.41876440979951,
+   "y": -0.909825655776664,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 658,
+   "x": 2.52781004125322,
+   "y": 0.891861541500227,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 659,
+   "x": 9.19879861036878,
+   "y": 25.1755863411014,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 660,
+   "x": 2.30016391669725,
+   "y": -0.120524365252617,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 661,
+   "x": 7.83133217162459,
+   "y": 33.390480954717,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 662,
+   "x": 0.850945791918443,
+   "y": -0.435013928991379,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 663,
+   "x": 12.454579260112,
+   "y": 12.7868775520704,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 664,
+   "x": 7.07700754431656,
+   "y": 22.9537835160788,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 665,
+   "x": 9.65571490458738,
+   "y": 40.1769948290732,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 666,
+   "x": 9.39015803630644,
+   "y": 39.6494471054072,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2018/01"
+ },
+ {
+   "FIELD1": 667,
+   "x": 10.496152784538,
+   "y": 24.1325213443537,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 668,
+   "x": 12.0331799659389,
+   "y": 22.6890841492557,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 669,
+   "x": 13.4371709046713,
+   "y": 15.3321327868836,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 670,
+   "x": 9.90147272290638,
+   "y": 17.0389156297501,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 671,
+   "x": 10.6385879635621,
+   "y": 25.7237658759981,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 672,
+   "x": 9.95893759450611,
+   "y": 17.9671615191054,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 673,
+   "x": 9.68635094892726,
+   "y": 13.0851793307608,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 674,
+   "x": 13.815487107838,
+   "y": 36.6084802225452,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 675,
+   "x": 9.88152017138363,
+   "y": 18.0798761051985,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 676,
+   "x": 13.4413258556665,
+   "y": 15.3068389808561,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 677,
+   "x": 12.2397841006817,
+   "y": 15.7516186376448,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 678,
+   "x": 8.32534147285995,
+   "y": 17.2780294083835,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 679,
+   "x": 10.0158783522312,
+   "y": 17.0278829920272,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 680,
+   "x": 9.25075816104656,
+   "y": 5.90876164732865,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 681,
+   "x": 8.24057868880563,
+   "y": 13.2006435624561,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 682,
+   "x": 13.727244302433,
+   "y": 30.4524588083159,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 683,
+   "x": 9.03378330681039,
+   "y": 17.1139900064286,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 684,
+   "x": 9.60153368324303,
+   "y": 11.2232274966636,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 685,
+   "x": 10.0245728630956,
+   "y": 5.52819426863533,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 686,
+   "x": 9.98512957293703,
+   "y": 8.35210632160117,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 687,
+   "x": 3.38475644701992,
+   "y": -1.76168202677364,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 688,
+   "x": 14.6702317542317,
+   "y": 22.1041393890221,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 689,
+   "x": 12.2360184005349,
+   "y": 15.7506522017714,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 690,
+   "x": 8.9690261076963,
+   "y": 18.4857786006221,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 691,
+   "x": 9.74814552610477,
+   "y": 17.2655335663011,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 692,
+   "x": 9.77550206822277,
+   "y": 17.2892902134651,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 693,
+   "x": 3.54458071136893,
+   "y": -1.36747436945569,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 694,
+   "x": 9.9026741018763,
+   "y": 13.2324240086089,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 695,
+   "x": 13.2880481847732,
+   "y": 33.1493606534967,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 696,
+   "x": 10.6885272416769,
+   "y": 20.9706009193951,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 697,
+   "x": 10.0875987535984,
+   "y": 7.5997874881873,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 698,
+   "x": 11.3177536560302,
+   "y": 17.9793973363785,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 699,
+   "x": 1.33407274989251,
+   "y": -1.13535506712324,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 700,
+   "x": 13.4867940992236,
+   "y": 15.1701271219631,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 701,
+   "x": 11.0309787089974,
+   "y": 9.85822031698673,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 702,
+   "x": 13.0155668758868,
+   "y": 31.3925826625031,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 703,
+   "x": 11.1581301255607,
+   "y": 10.1176652228172,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 704,
+   "x": 13.4486505243469,
+   "y": 15.2092056981917,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 705,
+   "x": 4.23502678983285,
+   "y": 0,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 706,
+   "x": 9.80662926925248,
+   "y": 17.9024089380584,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 707,
+   "x": 2.87885566871622,
+   "y": -1.29799780376662,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 708,
+   "x": 10.0403062705846,
+   "y": 9.38971015980565,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 709,
+   "x": 9.16290767256867,
+   "y": 17.5726946893193,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 710,
+   "x": 9.2811716606891,
+   "y": 16.3155879967211,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 711,
+   "x": 7.85702595265492,
+   "y": 19.4473264320261,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 712,
+   "x": 9.94622629947704,
+   "y": 16.9878776351042,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 713,
+   "x": 0.261073089019788,
+   "y": -0.0589830541754655,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 714,
+   "x": 9.90492174814802,
+   "y": 19.9699570523554,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 715,
+   "x": 10.061090871515,
+   "y": 7.70069588480931,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 716,
+   "x": 12.2341402665691,
+   "y": 15.7922444551195,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 717,
+   "x": 12.9923796584096,
+   "y": 10.3327881174118,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 718,
+   "x": 11.3662721575448,
+   "y": 5.14620792153402,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 719,
+   "x": 9.33688850726473,
+   "y": 6.83055088414812,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 720,
+   "x": 9.98043589585447,
+   "y": 12.1068229801361,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 721,
+   "x": 9.2332228196559,
+   "y": 17.93195549086,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 722,
+   "x": 3.58170928782941,
+   "y": 0.699544492023008,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 723,
+   "x": 0.770964704100435,
+   "y": -1.16700362204095,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 724,
+   "x": 15.7602587392485,
+   "y": -7.80701383065546,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 725,
+   "x": 9.83907126886172,
+   "y": 17.8226586072842,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 726,
+   "x": 9.43706040286592,
+   "y": 17.8156437978588,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 727,
+   "x": 12.2351252174585,
+   "y": 17.9280961927315,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 728,
+   "x": 12.0507720820867,
+   "y": 19.4419412645722,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 729,
+   "x": 3.32070045553831,
+   "y": -0.997809343534439,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 730,
+   "x": 9.07312898857772,
+   "y": 24.5045810278997,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 731,
+   "x": 2.45287102625583,
+   "y": -1.83710501925446,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 732,
+   "x": 2.89671021432622,
+   "y": -1.07823201882603,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 733,
+   "x": 11.5327497603963,
+   "y": 19.342516519659,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 734,
+   "x": 10.6576329033978,
+   "y": 27.1678407426734,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 735,
+   "x": 2.21780614915341,
+   "y": 0.745505988708883,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 736,
+   "x": 0.857669753833581,
+   "y": -1.01845461137343,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 737,
+   "x": 13.4093922702252,
+   "y": 9.89619930718848,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 738,
+   "x": 9.88934626149734,
+   "y": 17.4826159829901,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 739,
+   "x": 10.8807851610769,
+   "y": 28.491614925952,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 740,
+   "x": 10.5976433139799,
+   "y": 28.0964359888736,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2018/02"
+ },
+ {
+   "FIELD1": 741,
+   "x": 11.7752502820629,
+   "y": 14.4760652268252,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 742,
+   "x": 12.0374976903726,
+   "y": 20.0344235362039,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 743,
+   "x": 11.0678535417608,
+   "y": 10.5396552588162,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 744,
+   "x": 14.6528183301939,
+   "y": 12.5268259854589,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 745,
+   "x": 11.3096072660544,
+   "y": 10.5172953426026,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 746,
+   "x": 12.2705701126323,
+   "y": 17.3079798221513,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 747,
+   "x": 10.592316013009,
+   "y": 8.38114099191849,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 748,
+   "x": 15.6145659322924,
+   "y": 26.1438094875212,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 749,
+   "x": 11.2251859299607,
+   "y": 10.726191566288,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 750,
+   "x": 14.6592814256536,
+   "y": 12.5014943239568,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 751,
+   "x": 13.0823122886277,
+   "y": 12.4532258394478,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 752,
+   "x": 8.58839937015189,
+   "y": 13.9492224766343,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 753,
+   "x": 11.2691225859326,
+   "y": 10.548306327918,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 754,
+   "x": 9.87884336623538,
+   "y": 2.54504740431658,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 755,
+   "x": 9.04961331109426,
+   "y": 7.86486467082623,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 756,
+   "x": 14.6868114510454,
+   "y": 24.7974868572658,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 757,
+   "x": 9.26523916060525,
+   "y": 13.3941175699885,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 758,
+   "x": 10.8195861172711,
+   "y": 2.66675471151261,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 759,
+   "x": 10.5198481933086,
+   "y": 4.73207115881891,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 760,
+   "x": 11.0014289258218,
+   "y": 2.57608131339815,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 761,
+   "x": 3.29000070707398,
+   "y": -1.2810601347535,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 762,
+   "x": 15.7391295056736,
+   "y": 11.3663400005839,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 763,
+   "x": 13.0807169662948,
+   "y": 12.4565902309261,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 764,
+   "x": 9.2075354774817,
+   "y": 14.7104145721673,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 765,
+   "x": 10.7339263075578,
+   "y": 10.7821874260327,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 766,
+   "x": 3.51394334383616,
+   "y": -2.76935375034134,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 767,
+   "x": 11.1226143663211,
+   "y": 10.1717917567007,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 768,
+   "x": 10.9458740478592,
+   "y": 9.55335789681182,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 769,
+   "x": 15.061492559191,
+   "y": 22.8431404174008,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 770,
+   "x": 11.837955105744,
+   "y": 15.8067945603303,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 771,
+   "x": 9.91998442036094,
+   "y": 4.59000568885872,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 772,
+   "x": 12.2670777779053,
+   "y": 7.73867455527524,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 773,
+   "x": 1.26041285466154,
+   "y": -1.51838356785694,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 774,
+   "x": 11.7526169735923,
+   "y": 7.86078506552572,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 775,
+   "x": 14.6982486855997,
+   "y": 12.3697408594558,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 776,
+   "x": 14.8820816342154,
+   "y": 21.2863154118832,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 777,
+   "x": 11.9579141587477,
+   "y": 8.00602952113154,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 778,
+   "x": 14.6629778457537,
+   "y": 12.4058208262446,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 779,
+   "x": 11.0390542912435,
+   "y": 10.7781270132461,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 780,
+   "x": 4.08019530422767,
+   "y": -0.998168873037453,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 781,
+   "x": 2.730180046159,
+   "y": -1.35886277951965,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 782,
+   "x": 11.020896123846,
+   "y": 3.00431648224659,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 783,
+   "x": 9.98815292181941,
+   "y": 12.781969454942,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 784,
+   "x": 9.70125295502406,
+   "y": 14.2096047941995,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 785,
+   "x": 8.62232626271409,
+   "y": 13.8475671740222,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 786,
+   "x": 11.199640231447,
+   "y": 10.4990773553965,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 787,
+   "x": 0.262324598607906,
+   "y": -0.0418181122271544,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 788,
+   "x": 11.1765440354499,
+   "y": 12.7820983540192,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 789,
+   "x": 13.0775950667322,
+   "y": 12.4871875791894,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 790,
+   "x": 9.90080741894125,
+   "y": 4.80457982501024,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 791,
+   "x": 11.7204593006277,
+   "y": 0.358583661387613,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 792,
+   "x": 13.5434259622523,
+   "y": 9.38320079584491,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 793,
+   "x": 10.108554904661,
+   "y": 2.85717612754932,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 794,
+   "x": 10.9392307067902,
+   "y": 8.88828746535741,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 795,
+   "x": 9.72248915716706,
+   "y": 15.2694034962368,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 796,
+   "x": 3.53760559550268,
+   "y": -0.846636387496014,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 797,
+   "x": 0.724635213200986,
+   "y": -1.11423856939729,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 798,
+   "x": 11.0956424634747,
+   "y": 10.458003553024,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 799,
+   "x": 16.190623704187,
+   "y": -5.13160823179316,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 800,
+   "x": 9.91766042680505,
+   "y": 15.1215535025814,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 801,
+   "x": 13.1737356122223,
+   "y": 10.4929524992066,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 802,
+   "x": 12.674339766695,
+   "y": 15.0668813256533,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 803,
+   "x": 3.1549687455734,
+   "y": -1.96561306208509,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 804,
+   "x": 9.36258328949124,
+   "y": 20.1669461873912,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 805,
+   "x": 2.32948275592153,
+   "y": -1.74914009964328,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 806,
+   "x": 2.94121155111037,
+   "y": -2.92751870653386,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 807,
+   "x": 12.6560175445272,
+   "y": 11.8048919351322,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 808,
+   "x": 12.1565507443457,
+   "y": 18.8515290784654,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 809,
+   "x": 2.15360855009605,
+   "y": 0.801666615460972,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 810,
+   "x": 0.807027409260043,
+   "y": -1.24674694609102,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 811,
+   "x": 13.8741755539279,
+   "y": 9.97271389423564,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 812,
+   "x": 11.188598589235,
+   "y": 10.4929649776619,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 813,
+   "x": 11.4294100061914,
+   "y": 22.4809257924552,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 814,
+   "x": 11.152264173725,
+   "y": 21.9431258624105,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2018/03"
+ },
+ {
+   "FIELD1": 815,
+   "x": 12.7047107977907,
+   "y": 16.4727191145717,
+   "z": 20922600000,
+   "group": "Equity",
+   "label": "SPDR Dow Jones Industrial Average ETF Trust",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 816,
+   "x": 12.0772768174659,
+   "y": 16.8751639487506,
+   "z": 14009500000,
+   "group": "Equity",
+   "label": "iShares MSCI Eurozone ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 817,
+   "x": 14.4401308431351,
+   "y": 18.1790088225298,
+   "z": 26989199356,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund 225",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 818,
+   "x": 11.8241077243939,
+   "y": 12.2343530573364,
+   "z": 11599100000,
+   "group": "Equity",
+   "label": "Schwab US Broad Market ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 819,
+   "x": 13.3503915219104,
+   "y": 17.5717084858817,
+   "z": 19794400000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Growth ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 820,
+   "x": 12.1274797312804,
+   "y": 11.3254862210862,
+   "z": 142638500000,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 821,
+   "x": 11.0101078478236,
+   "y": 7.18943930391913,
+   "z": 14578600000,
+   "group": "Equity",
+   "label": "Guggenheim Invest S&P 500 Eql Wght ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 822,
+   "x": 16.706515725663,
+   "y": 24.6409551784695,
+   "z": 18315000000,
+   "group": "Equity",
+   "label": "Vanguard Information Technology Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 823,
+   "x": 12.0369682058766,
+   "y": 12.4583809750652,
+   "z": 11939300000,
+   "group": "Equity",
+   "label": "Vanguard Large-Cap Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 824,
+   "x": 14.5368713991028,
+   "y": 16.9476325086003,
+   "z": 53347814525.6,
+   "group": "Equity",
+   "label": "Nomura Nikkei 225 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 825,
+   "x": 12.8716753016706,
+   "y": 15.7001921362609,
+   "z": 31245108624.8,
+   "group": "Equity",
+   "label": "Nikko Listed IDX Fund TOPIX",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 826,
+   "x": 8.5871595344644,
+   "y": 13.8896802878882,
+   "z": 15334200000,
+   "group": "Equity",
+   "label": "Schwab International Equity ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 827,
+   "x": 12.0178776000397,
+   "y": 12.2328078341829,
+   "z": 13207100000,
+   "group": "Equity",
+   "label": "iShares Core S&P Total US Stock Market ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 828,
+   "x": 10.4425138619954,
+   "y": 2.87248221653482,
+   "z": 16139400000,
+   "group": "Equity",
+   "label": "SPDR S&P Dividend ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 829,
+   "x": 9.64703283994461,
+   "y": 8.31995846680764,
+   "z": 14105300000,
+   "group": "Equity",
+   "label": "iShares Edge MSCI Min Vol USA ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 830,
+   "x": 15.2033047802847,
+   "y": 25.5838166863895,
+   "z": 12764816952.1924,
+   "group": "Equity",
+   "label": "Tracker Fund of Hong Kong",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 831,
+   "x": 9.34334648512722,
+   "y": 13.4642650879311,
+   "z": 78401000000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 832,
+   "x": 11.2889634522113,
+   "y": 5.89177423357357,
+   "z": 20507100000,
+   "group": "Equity",
+   "label": "Vanguard High Dividend Yield Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 833,
+   "x": 11.1711975106403,
+   "y": 4.29424040835273,
+   "z": 10414200000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap Value ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 834,
+   "x": 11.6685531305471,
+   "y": 4.86354536908276,
+   "z": 35916900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Value ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 835,
+   "x": 3.16887737380024,
+   "y": -1.70453340884879,
+   "z": 24728600000,
+   "group": "Bond",
+   "label": "iShares TIPS Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 836,
+   "x": 16.1968800949095,
+   "y": 16.5095081884437,
+   "z": 32094100000,
+   "group": "Equity",
+   "label": "Financial Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 837,
+   "x": 12.9398230258641,
+   "y": 14.6102479261096,
+   "z": 71368907131.2,
+   "group": "Equity",
+   "label": "Nomura TOPIX ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 838,
+   "x": 9.19864595051674,
+   "y": 14.5117869106399,
+   "z": 58828400000,
+   "group": "Equity",
+   "label": "iShares Core MSCI EAFE ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 839,
+   "x": 11.5492852050158,
+   "y": 12.1448848789068,
+   "z": 27168600000,
+   "group": "Equity",
+   "label": "Vanguard Dividend Appreciation Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 840,
+   "x": 11.9339389217469,
+   "y": 10.9902381097085,
+   "z": 23000046500,
+   "group": "Equity",
+   "label": "Vanguard S&P 500 UCITS ETF USD",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 841,
+   "x": 3.41674925821797,
+   "y": -3.8471726885257,
+   "z": 16203200000,
+   "group": "Bond",
+   "label": "iShares US Preferred Stock ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 842,
+   "x": 11.5730441998589,
+   "y": 10.6137095724804,
+   "z": 18314900000,
+   "group": "Equity",
+   "label": "Vanguard Mid-Cap Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 843,
+   "x": 16.1230734667895,
+   "y": 21.0084957105441,
+   "z": 19810700000,
+   "group": "Equity",
+   "label": "Technology Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 844,
+   "x": 12.8318839335829,
+   "y": 15.3795860261153,
+   "z": 13051700000,
+   "group": "Equity",
+   "label": "Consumer Discretionary Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 845,
+   "x": 9.72819974401728,
+   "y": 6.58039304073066,
+   "z": 36770400000,
+   "group": "Commodity",
+   "label": "SPDR Gold Shares",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 846,
+   "x": 13.0226041179274,
+   "y": 11.4831704597258,
+   "z": 15278400000,
+   "group": "Equity",
+   "label": "Health Care Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 847,
+   "x": 1.23885241647471,
+   "y": -1.87533959768658,
+   "z": 21010800000,
+   "group": "Bond",
+   "label": "Vanguard Short-Term Corporate Bond Idx Fd;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 848,
+   "x": 14.4867707221198,
+   "y": 18.0194446999466,
+   "z": 12111411289.6,
+   "group": "Equity",
+   "label": "MUKAM MAXIS Nikkei 225 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 849,
+   "x": 12.1515049232875,
+   "y": 9.41841150856573,
+   "z": 19723400000,
+   "group": "Equity",
+   "label": "SPDR S&P MidCap 400 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 850,
+   "x": 15.9991433657478,
+   "y": 21.4532445770846,
+   "z": 60007800000,
+   "group": "Equity",
+   "label": "PowerShares QQQ Trust Series 1",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 851,
+   "x": 12.3433012136144,
+   "y": 9.61781518736737,
+   "z": 44615200000,
+   "group": "Equity",
+   "label": "iShares Core S&P Mid-Cap ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 852,
+   "x": 14.4516673031766,
+   "y": 18.0612945230203,
+   "z": 23782136940.8,
+   "group": "Equity",
+   "label": "Daiwa ETF Nikkei 225",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 853,
+   "x": 4.09312514152787,
+   "y": -1.84210395437967,
+   "z": 32488500000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 854,
+   "x": 11.8479697680231,
+   "y": 11.5318303266973,
+   "z": 12047200000,
+   "group": "Equity",
+   "label": "Schwab US Large-Cap ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 855,
+   "x": 2.7040182992538,
+   "y": -2.00774428939666,
+   "z": 55830100000,
+   "group": "Bond",
+   "label": "iShares Core US Aggregate Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 856,
+   "x": 11.6952265114884,
+   "y": 6.53573284412754,
+   "z": 15522900000,
+   "group": "Equity",
+   "label": "iShares S&P 500 Value ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 857,
+   "x": 10.5269520103526,
+   "y": 13.8239133652497,
+   "z": 11862700000,
+   "group": "Equity",
+   "label": "Vanguard Total World Stock Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 858,
+   "x": 9.84428480271453,
+   "y": 13.6704994482769,
+   "z": 16369900000,
+   "group": "Equity",
+   "label": "Vanguard FTSE Developed Markets ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 859,
+   "x": 9.00565833283154,
+   "y": 14.1716191550674,
+   "z": 13488946878.3,
+   "group": "Equity",
+   "label": "iShares Core MSCI World UCITS ETF USD (Acc)",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 860,
+   "x": 11.9538114659523,
+   "y": 12.2649405007951,
+   "z": 128610700000,
+   "group": "Equity",
+   "label": "Vanguard Total Stock Market Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 861,
+   "x": 0.272997425999453,
+   "y": 0.0253850826576585,
+   "z": 13846900000,
+   "group": "Bond",
+   "label": "iShares Short Treasury Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 862,
+   "x": 11.8218451930659,
+   "y": 13.2297776561906,
+   "z": 25697807335.93,
+   "group": "Equity",
+   "label": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 863,
+   "x": 9.68265560560968,
+   "y": 4.80387495746462,
+   "z": 12179100000,
+   "group": "Commodity",
+   "label": "iShares Gold Trust",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 864,
+   "x": 12.8962448012156,
+   "y": 14.5549974081485,
+   "z": 33730501554.4,
+   "group": "Equity",
+   "label": "Daiwa ETF TOPIX",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 865,
+   "x": 13.743974686816,
+   "y": 11.4847299465304,
+   "z": 42090700000,
+   "group": "Equity",
+   "label": "iShares Russell 2000 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 866,
+   "x": 12.0714649715016,
+   "y": 0.425637569178439,
+   "z": 10035544647.6285,
+   "group": "Equity",
+   "label": "iShares EURO STOXX 50 (DE)",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 867,
+   "x": 10.4583433044899,
+   "y": 5.28608367790373,
+   "z": 16733400000,
+   "group": "Equity",
+   "label": "iShares Select Dividend ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 868,
+   "x": 11.5050278906642,
+   "y": 9.30834004066341,
+   "z": 16929100000,
+   "group": "Equity",
+   "label": "iShares Russell Mid-Cap ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 869,
+   "x": 9.871708836218,
+   "y": 13.6034096991558,
+   "z": 126640300000,
+   "group": "Equity",
+   "label": "Vanguard Total International Stock Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 870,
+   "x": 3.44058587064245,
+   "y": -2.53953846416847,
+   "z": 11443500000,
+   "group": "Bond",
+   "label": "iShares JPMorgan USD Emerging Markets Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 871,
+   "x": 0.724424842746828,
+   "y": -1.35957146498624,
+   "z": 12432700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Treasury Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 872,
+   "x": 16.7561118657429,
+   "y": 5.16066509041668,
+   "z": 18528200000,
+   "group": "Equity",
+   "label": "Energy Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 873,
+   "x": 11.9261607811139,
+   "y": 11.2659772398501,
+   "z": 254672400000,
+   "group": "Equity",
+   "label": "SPDR S&P 500 ETF Trust",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 874,
+   "x": 10.0660374732927,
+   "y": 13.4358165513646,
+   "z": 23705700000,
+   "group": "Equity",
+   "label": "Vanguard FTSE All-World ex US Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 875,
+   "x": 11.8875083950934,
+   "y": 12.2276243512855,
+   "z": 26894000000,
+   "group": "Equity",
+   "label": "Vanguard 500 Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 876,
+   "x": 12.370184645751,
+   "y": 17.1317328022907,
+   "z": 21397700000,
+   "group": "Equity",
+   "label": "iShares MSCI Japan ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 877,
+   "x": 3.09238049005807,
+   "y": -2.88178065828198,
+   "z": 18267000000,
+   "group": "Bond",
+   "label": "Vanguard Intermediate-Term Corp Bond Idx Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 878,
+   "x": 9.29539192772627,
+   "y": 20.0125914557712,
+   "z": 11048100000,
+   "group": "Equity",
+   "label": "iShares MSCI EAFE Small-Cap ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 879,
+   "x": 2.25288488580788,
+   "y": -2.31619680967814,
+   "z": 12185700000,
+   "group": "Bond",
+   "label": "iShares MBS ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 880,
+   "x": 2.8054255119359,
+   "y": -1.2421386540055,
+   "z": 14786400000,
+   "group": "Bond",
+   "label": "iShares iBoxx $ High Yield Corporate Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 881,
+   "x": 13.5426747841306,
+   "y": 11.5949057614291,
+   "z": 12378100000,
+   "group": "Equity",
+   "label": "Industrial Select Sector SPDR Fund",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 882,
+   "x": 13.03139782451,
+   "y": 20.4521092451623,
+   "z": 40041000000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 Growth ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 883,
+   "x": 2.15002823038622,
+   "y": 1.01919445806464,
+   "z": 40389200000,
+   "group": "Bond",
+   "label": "Vanguard Total International Bond Index Fund;ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 884,
+   "x": 0.804609276220249,
+   "y": -1.3755224765401,
+   "z": 10728700000,
+   "group": "Bond",
+   "label": "iShares 1-3 Year Credit Bond ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 885,
+   "x": 13.9687634210843,
+   "y": 12.4842839696777,
+   "z": 37638000000,
+   "group": "Equity",
+   "label": "iShares Core S&P Small-Cap ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 886,
+   "x": 11.9737367464946,
+   "y": 12.1729629053904,
+   "z": 19306900000,
+   "group": "Equity",
+   "label": "iShares Russell 1000 ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 887,
+   "x": 11.4920957916663,
+   "y": 18.7526867743845,
+   "z": 42169900000,
+   "group": "Equity",
+   "label": "iShares MSCI Emerging Markets ETF",
+   "date": "2018/04"
+ },
+ {
+   "FIELD1": 888,
+   "x": 11.1543459410932,
+   "y": 19.9098163126671,
+   "z": 50930200000,
+   "group": "Equity",
+   "label": "iShares Core MSCI Emerging Markets ETF",
+   "date": "2018/04"
+ }
+]
